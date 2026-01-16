@@ -165,4 +165,4 @@ School of Natural Applied Science - CSIT Department
 
 ---
 
-**Need help?** Check the full documentation or contact the developer.
+**Need help?** Contact Me: **fayiinfika@gmail.com**.
