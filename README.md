@@ -1,2 +1,6 @@
 # Visitors-System-
-Visitors System for residence in university. Where visitors that are visiting the resident can be monitored and kept on the system. 
+The Visitors System is a web-based application designed to manage and monitor visitors in a university residence environment. It provides a structured way to register, track, and control access for guests visiting students, ensuring better organization, accountability, and security within the residence.
+
+The system allows residents to log visitor details, while administrators or residence staff can view, verify, and manage visitor records in real time. By keeping all visitor information in a centralized database, the platform reduces manual paperwork and improves efficiency in handling guest access.
+
+This project focuses on building a reliable and user-friendly solution that supports visitor registration, monitoring, and record management, making it easier for residences to maintain safety and operational control. 
